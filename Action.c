@@ -1,7 +1,6 @@
 Action()
 {
 
-		//THis is comment for GitHub test
 	web_set_sockets_option("SSL_VERSION", "TLS1.2");
 
 	web_add_header("Upgrade-Insecure-Requests", 
